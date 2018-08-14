@@ -24,7 +24,7 @@ It will give out the strategies that favor player1 the most, favor player2 the m
 
 I hope you had fun simulating Prisoner's Dilemma with this.
 
-Any question, please email me @ tjin34@bu.edu.
+Any question, please email me @ tonyjzy@gmail.com.
 
 
 # HOW TO RUN THIS PROJECT:
